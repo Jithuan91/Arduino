@@ -24,6 +24,6 @@ void loop() {
   lcd.print(" am ");
   delay(3000);
    lcd.setCursor(0,0);
-  lcd.print("   SAIKIRAN!!!");
+  lcd.print(" jithendra!!!")
   delay(1000);
 }
